@@ -1,16 +1,16 @@
 ## Hi there 👋
+# My Open Source Software Assignment
 
-<!--
-**Minghui131/Minghui131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! This is my assignment for the Open Source Software course. Below is what I have learned:
 
-Here are some ideas to get you started:
+## What I Have Learned
+- **Git and GitHub**: Learning how to use version control systems to manage code.
+- **Markdown**: Learning how to write clear documentation using Markdown.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Markdown Examples
+- **Bold Text**: **This is bold text**
+- *Italic Text*: *This is italic text*
+- `Code Block`: `print("Hello, world!")`
+
+### Contact Me
+If you're interested in my projects, feel free to reach out to me via my GitHub page!
